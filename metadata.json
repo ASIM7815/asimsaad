@@ -1,0 +1,7 @@
+{
+  "name": "EduTube - Curated Learning",
+  "description": "A web application that provides a curated learning experience using YouTube videos. Users can search for educational content, explore recommended topics, and upload their own videos to a personal library.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
